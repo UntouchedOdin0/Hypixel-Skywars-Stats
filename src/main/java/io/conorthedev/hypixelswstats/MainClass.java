@@ -39,7 +39,7 @@ public class MainClass {
 	
     public static int totalKarma;
     public static int rainbow;
-    public static String hypixelIP = "mc.hypixel.net";
+    public static String hypixelIP = "*.hypixel.net";
     public static boolean displayGui = false;
     public static boolean debugEnabled;
     private boolean isHypixel = false;
