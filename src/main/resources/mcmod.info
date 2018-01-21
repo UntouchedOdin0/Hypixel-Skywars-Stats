@@ -1,0 +1,16 @@
+[
+{
+  "modid": "skywarsStatsMod",
+  "name": "Hypixel Skywars Stats Mod",
+  "description": "It shows your stats inside Skywars on Hypixel.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ConorTheDev"],
+  "credits": "conorthedev.github.io/website/",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
